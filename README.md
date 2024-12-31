@@ -1,27 +1,5 @@
 CartPole Q-learning project:
 
-```markdown
-# CartPole Q-Learning
-
-This repository implements a reinforcement learning solution for solving the CartPole-v1 environment using Q-learning. The CartPole problem is a classic benchmark problem in reinforcement learning, where the goal is to balance a pole on a moving cart.
-
-## Environment Setup
-
-To get started, you need to set up the necessary environment and install dependencies.
-
-### 1. Install Anaconda (Optional)
-
-You can use Anaconda to manage your Python environment. If you haven't already installed Anaconda, you can download and install it from the official website: https://www.anaconda.com/products/individual
-
-### 2. Install Dependencies
-
-Create a new environment in Anaconda and install the required packages:
-
-```bash
-conda create -n cartpole_qlearning python=3.8
-conda activate cartpole_qlearning
-```
-
 Install the required Python packages:
 
 ```bash
